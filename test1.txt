@@ -1,0 +1,10 @@
+ Volume in drive C is Acer
+ Volume Serial Number is 463F-5EEF
+
+ Directory of C:\Users\Galas_000\Desktop\codingProjects
+
+07/27/2017  11:16 AM    <DIR>          .
+07/27/2017  11:16 AM    <DIR>          ..
+07/27/2017  11:16 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  893,816,676,352 bytes free
